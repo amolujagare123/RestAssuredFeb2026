@@ -1,0 +1,30 @@
+{
+  "experience": [
+    "3 years experience in Software Testing",
+    "2 years experience in Automation Testing using Selenium",
+    "1 year experience in API Testing using Postman and Rest Assured"
+  ],
+  "jobDescription": "We are looking for an Automation Test Engineer with experience in Selenium, Java, and API Testing. The candidate should be able to design test frameworks, create automated test scripts, and integrate them with CI/CD pipelines.",
+  "jobId": 10126,
+  "jobTitle": "Automation Test Engineer",
+  "project": [
+    {
+      "projectName": "E-commerce Web Application Testing",
+      "technology": [
+        "Selenium",
+        "Java",
+        "TestNG",
+        "Maven"
+      ]
+    },
+    {
+      "projectName": "Payment Gateway API Testing",
+      "technology": [
+        "Postman",
+        "Rest Assured",
+        "Java",
+        "Swagger"
+      ]
+    }
+  ]
+}

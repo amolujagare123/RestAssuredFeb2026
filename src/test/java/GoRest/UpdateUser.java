@@ -19,7 +19,7 @@ public class UpdateUser {
                         "    \"gender\": \"male\",\n" +
                         "    \"status\": \"active\"\n" +
                         "}")
-                .when().put("/public/v2/users/8379488")
+                .when().put("/public/v2/users/8388286")
                 .then().statusCode(200);
     }
 }
